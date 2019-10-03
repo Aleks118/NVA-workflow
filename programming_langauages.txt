@@ -1,5 +1,5 @@
 Programming languages for the members
 
 Aleks- c++, java
-Nancy -  c++ , html, java, css
+Nancy -  c++ , html, javascript, css
 Vioelsdm- python , c#
